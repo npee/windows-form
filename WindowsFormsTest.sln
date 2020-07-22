@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsTest", "WindowsFormsTest\WindowsFormsTest.csproj", "{61DF3B98-3836-44D7-9A43-28D502266D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveEllipse", "MoveEllipse\MoveEllipse.csproj", "{A4A7DF88-6065-4DDD-99C6-408E63759DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveEllipseH", "MoveEllipseH\MoveEllipseH.csproj", "{0CAF2630-4C46-411E-B449-1611D6589590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectRectangle", "SelectRectangle\SelectRectangle.csproj", "{DAE05571-04DB-4B29-9482-452FE14E83BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight", "TrafficLight\TrafficLight.csproj", "{901AA023-3CD8-41B5-8109-222110A1AFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animation", "Animation\Animation.csproj", "{26CB8DE7-7942-45B7-BAB6-4B0C8C2F3059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{C213E343-078D-4786-BB71-ADB8A24A2DE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F50D225-A883-4A8A-AEC4-BA2EB45D0966}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DF3B98-3836-44D7-9A43-28D502266D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DF3B98-3836-44D7-9A43-28D502266D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DF3B98-3836-44D7-9A43-28D502266D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DF3B98-3836-44D7-9A43-28D502266D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A7DF88-6065-4DDD-99C6-408E63759DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A7DF88-6065-4DDD-99C6-408E63759DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A7DF88-6065-4DDD-99C6-408E63759DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A7DF88-6065-4DDD-99C6-408E63759DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CAF2630-4C46-411E-B449-1611D6589590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAF2630-4C46-411E-B449-1611D6589590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAF2630-4C46-411E-B449-1611D6589590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAF2630-4C46-411E-B449-1611D6589590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE05571-04DB-4B29-9482-452FE14E83BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE05571-04DB-4B29-9482-452FE14E83BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE05571-04DB-4B29-9482-452FE14E83BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE05571-04DB-4B29-9482-452FE14E83BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901AA023-3CD8-41B5-8109-222110A1AFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901AA023-3CD8-41B5-8109-222110A1AFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901AA023-3CD8-41B5-8109-222110A1AFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901AA023-3CD8-41B5-8109-222110A1AFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26CB8DE7-7942-45B7-BAB6-4B0C8C2F3059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CB8DE7-7942-45B7-BAB6-4B0C8C2F3059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CB8DE7-7942-45B7-BAB6-4B0C8C2F3059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CB8DE7-7942-45B7-BAB6-4B0C8C2F3059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C213E343-078D-4786-BB71-ADB8A24A2DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C213E343-078D-4786-BB71-ADB8A24A2DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C213E343-078D-4786-BB71-ADB8A24A2DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C213E343-078D-4786-BB71-ADB8A24A2DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD4F8C64-FC4B-42B6-996F-23EDEED94A49}
+	EndGlobalSection
+EndGlobal
